@@ -1,3 +1,3 @@
 # amt-test
 
-#note here conflict-latest
+#note here conflict-latest-via-atom
